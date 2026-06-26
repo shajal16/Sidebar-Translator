@@ -1,1 +1,1 @@
-A helpful instant translator for chrome browser to translate any text into the language you want.
+A helpful instant translator for chrome browser to translate any text to the language you want.
